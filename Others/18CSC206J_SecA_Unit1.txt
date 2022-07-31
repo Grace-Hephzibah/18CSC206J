@@ -1,0 +1,127 @@
+﻿Identify the life cycle model that can be suggested for a team with less experience in development of analogous projects.
+A. Spiral
+B. Waterfall
+C. RAD
+D. Iterative Enhancement Model
+ANSWER: A
+
+Identify the factor that does not account for software failure
+A. Increasing Demand
+B. Low expectation
+C. Increasing Supply
+D. Less reliable and expensive
+ANSWER: C
+
+Recall the LOC count range that is appropriate for Build & Fix Model
+A. 100-200
+B. 200-400
+C. 400-1000
+D. above 1000
+ANSWER: A
+
+Incremental Model is an Inference of two different models which are …..
+A. Build & FIX Model & Waterfall Model
+B. Linear Model & RAD Model
+C. Linear Model & Prototyping Model
+D. Waterfall Model & RAD Model
+ANSWER: C
+
+Choose the model where user is part of all stages of SDLC
+A. Waterfall Model
+B. Prototyping Model
+C. RAD Model
+D. Both Prototyping Model & RAD Model
+ANSWER: C
+
+List out the foremost problem identified by means of applying RAD Model. 
+A. Highly specialized & skilled developers/designers are required
+B. Increases reusability of components
+C. Encourages customer/client feedback
+D. Increases reusability of components, Highly specialized & skilled developers/designers are required
+ANSWER: D
+
+List out the foremost benefits identified by means of applying Incremental Model
+A. Customer can respond to each increment
+B. Easier to test and debug
+C. It is used when there is a need to get a product to the market early
+D. Easier to test and debug & It is used when there is a need to get a product to the market early
+ANSWER: D
+
+Identify the key dimensions of spiral model
+A. diagonal, angular
+B. radial, perpendicular
+C. radial, angular
+D. diagonal, perpendicular
+ANSWER: C
+
+Select the two models which does not permit requirements to be defined in early phase of life cycle
+A. Waterfall & RAD
+B. Prototyping & Spiral
+C. Prototyping & RAD
+D.   Waterfall & Spiral
+ANSWER: B
+
+Select a model to develop an advanced version software product development for a software available in market
+A. RAD
+B. Iterative Enhancement
+C. Spiral
+D. Both RAD & Iterative Enhancement
+ANSWER: D
+
+Ascertain the process which is not part of software process quality
+A. Productivity
+B. Portability
+C.  Timeliness
+D. Visibility
+ANSWER: B
+
+Identify and arrange the four framework activities are found in the Extreme Programming (XP)
+A. analysis, design, coding, testing
+B. planning, analysis, design, coding
+C. planning, design, coding, testing
+D. planning, analysis, coding, testing
+ANSWER: C
+
+The business case for a software is established in which phase…..
+A. Transition
+B. Elaboration
+C. Construction
+D. Inception
+ANSWER: D
+
+Identify the impact of a process when a software is delivered  
+A. both in time & with acceptable quality
+B. with acceptable quality
+C. that is cost efficient
+D. in time
+ANSWER: A
+
+Identify the following activities that generate report on feedback in a Generic Process framework.
+A. Communication
+B. Planning
+C. Modeling & Construction
+D. Deployment
+ANSWER: D
+
+In extreme programming the user requirements are represented based on 
+A. implementation tasks
+B. functionalities
+C. scenarios
+D. stories
+ANSWER: C
+
+…………………………is a driver is a feature that indicates the uncertainty of a product delivery 
+A. Performance Risk
+B. ScheduleRisk
+C. Cost Risk
+D. Support Risk
+ANSWER: B
+
+RMMM is a important factor that is represented in risk table is expanded as……
+A. Risk Mitigation, Monitoring and Management Plan
+B. Risk Monitoring , Mitigation and Management Plan
+C. Risk Management, Mitigation and Monitoring Plan
+D. Risk Migrate, Monitor and Managing Plan
+ANSWER: A
+
+

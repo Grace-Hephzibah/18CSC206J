@@ -1,0 +1,85 @@
+Identify a peer review that is conducted even when a complete source code review is not done.
+A. Walkthroughs.
+B. Pair Programming
+C. Code review
+D. Deskchecks
+ANSWER: D
+ 
+Name the process that improves the organization  to maintain the piece of software by atelast two persons.
+A. Walkthroughs.
+B. Pair Programming
+C. Final Inspection
+D. Static Binding
+ANSWER: B
+ 
+Infer the source code review methods sequence of operation.
+A. Deskchecks->Walkthroughs->Code review->Final Inspection.
+B. Walkthrough->Deskchecks->Inspection->Code review.
+C. Inspection->Code review->Deskchecks->Walkthrough
+D. Code review->inspection->Deskcheks->Walkthrough
+ANSWER: A
+ 
+Forces external to an object to which that object react.Identify
+A. Objects
+B. Methods
+C. Attributes
+D. Events
+ANSWER: D
+ 
+Choose the special method used to create new instances of a class.
+A. Constructor
+B. Inheritance
+C. Polymorphism 
+D. Abstraction
+ANSWER: A
+ 
+Interpret the advantages of Automatic code generation over traditional coding.
+A. High Quality
+B. Consistent
+C. Coding Abstractly
+D. All the above
+ANSWER: D
+ 
+Select the correct integrated system of two or more application to provide extended functoionality.
+A. Application Frameworks
+B. Application System Integration 
+C. Architectural Patterns
+D. Aspect-oriented software development.
+ANSWER: B
+ 
+Analyze the benefits of Software reuse
+A. Accelerated Development
+B. Increased dependability
+C. Both(A)&(B)
+D. only B
+ANSWER: C
+ 
+Identify the system that encapsulates and configure  the functionality of business and rules for an organization.
+A. ERP systems
+B. Program libraries
+C. Service-oriented systems
+D. Systems of systems
+ANSWER: A
+ 
+A system that embeds application knowledge and generate  systems from a user-supplied system model.Interpret
+A. Legacy system wrapping
+B. Configurable application systems
+C. Model-driven engineering
+D. Program generators
+ANSWER: D
+ 
+Simultaneous work can be done on the model, views and controller by multiple developers .Identify
+A. Middleware integration frameworks
+B. Enterprise application frameworks
+C. Model View Controller
+D. System Infrastructure frameworks
+ANSWER: C
+ 
+Choose an accepted version of a software configuration item . The accepted item can be changed only through the series of process. 
+A. Software Configuration Management Plan
+B. Baseline
+C. Deployment-time configuration 
+D. Product line architecture 
+ANSWER: B
+ 
+

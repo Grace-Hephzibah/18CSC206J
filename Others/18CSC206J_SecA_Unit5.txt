@@ -1,0 +1,127 @@
+﻿______________________ will provide a step-by-step guide for using the product under scenarios in a customer work place.
+A. User Training
+B. User Requirements
+C. User Maintenance
+D. User Validation
+ANSWER: A
+
+If the software has some defects, then it will take a   __________ to rectify it.
+A. Corrective Maintenance
+B. Adaptive Maintenance
+C. Preventive Maintenance
+D. Perfective maintenance
+ANSWER: A
+
+Losses due to problems with the software can be compared to probable cost of maintenance and ……….. 
+A. Return on Investment
+B. Investment Opportunity
+C. Software Productivity
+D. Investment Returns
+ANSWER: A
+
+___________ is needed when there is a change in the business environment, and thereby users need additional/modified functionality in the software product to do their tasks.
+A. Corrective Maintenance
+B. Adaptive Maintenance
+C. Preventive Maintenance
+D. Perfective maintenance
+ANSWER: D
+
+____________   on the software product can make sure that the product will be useful even after environmental changes occur.
+A. Corrective Maintenance
+B. Adaptive Maintenance
+C. Preventive Maintenance
+D. Perfective maintenance
+ANSWER: C
+
+A ______________analysis can be done, to see if it is more profitable to conduct a Maintenance program on the software or keep using it as it is.
+A. Profit/Loss
+B. Test
+C. Maintenance
+D. Corrective
+ANSWER: A
+
+Which of these are not the functions performed by the Software Maintenance team?
+A. Locating information in system documentation
+B. Creating new documents
+C. Keeping system documentation up-to-date
+D. Finding the source of system failures or problems
+ANSWER: B
+
+__________   Model is based on economic models and often involves calculating ROI, for any planned maintenance.
+A. Quick Fix Model
+B. Boehm’s Model
+C. Osborne’s Model
+D. Iterative Enhancement Model
+ANSWER: B
+
+A quality assurance plan should accompany the maintenance plan in which model?
+A. Quick Fix Model
+B. Boehm’s Model
+C. Osborne’s Model
+D. Iterative Enhancement Model
+ANSWER: C
+
+Which of these are incorrect characteristics of Legacy System?
+A. High maintenance cost
+B. Clear Software
+C. Obsolete support software
+D. Obsolete hardware
+ANSWER: B
+
+The Reuse-oriented Model has_________ main steps
+A. 3
+B. 4
+C. 5
+D. 1
+ANSWER: B
+
+_____________________ is also known as reuse engineering.
+A. Reverse Engineering
+B. Reengineering
+C. Forward Engineering
+D. Software Engineering
+ANSWER: B
+
+____________ technique is most useful when nonexistent or sketchy documentation  is available for the software product
+A. Reverse Engineering
+B. Reengineering
+C. Forward Engineering
+D. Software Engineering
+ANSWER: A
+
+Perfective Maintenance accounts to_________ of all the maintenance activity
+A. 0.75
+B. 0.6
+C. 0.5
+D. 0.4
+ANSWER: C
+
+Which factor is not the reason for software maintenance? 
+A. Software Defects
+B. Additional User Requirements
+C. Technology Obsolescence
+D. Better Technology
+ANSWER: B
+
+Which of these are not the functions performed by the Software Maintenance team?
+A. Locating information in system documentation
+B. Creating new documents
+C. Keeping system documentation up-to-date
+D. Finding the source of system failures or problems
+ANSWER: B
+
+Analyze which of the following is the preliminary stage of Production planning.
+A. Capacity planning
+B. Material requirements planning
+C. Scheduling
+D. Product development and design
+ANSWER: D
+
+A ………….. is the process of launching a new product or feature set into the market.
+A. Product design
+B. Product release
+C. Product maintenance 
+D. Product implementation
+ANSWER: B
+
+

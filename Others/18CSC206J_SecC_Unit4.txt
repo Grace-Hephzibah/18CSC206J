@@ -1,0 +1,66 @@
+﻿An "Online TimeSheet Management System" web based software was developed by Suraj and Animesh of CSE Department. Suraj developed 3 main master high level modules  and Animesh developed 3 detail low level modules. The main master entry screen functionalities was handled by Suraj and detailed timesheet entry screens and report generation of all data was handled by Animesh. High and low-level modules are bundled  based on the control and data processing they provide for a specific program feature. They need to test the functionalities after bundling the modules , which stratergy would best suit for this kind of application 
+A. Top-Down Integration
+B. Module Level Integration
+C. Bottom-Up Integration
+D. Sandwich Integration
+ANSWER: D
+ 
+Consider the below given function Add_element procedure , which was used to insert elements into a list 
+void Add_element (int list[], int  elem[], int cnt)
+ {
+     int i,j,key;
+     for (i=0; i<=cnt; i++) elem[i] = i;
+     for (i=2; i<=cnt; i++)
+     {
+         key = elem[i];
+         j = 1;
+         while (list[elem[j-1]] > list[key])
+        {
+         elem[j] = elem[j-1]; 
+         j--;
+         }
+         elem[j] = key;
+     }
+     for (int l=0;l<cnt;l++)
+     printf("%d\n",elem[l]);
+}
+After creating a suitable control graph for the function , find how many edges and nodes would be present in it  respectively?
+A. 14,11
+B. 14 , 12
+C. 12,12
+D. 13,11
+ANSWER: B
+ 
+Create a Calculator program in C language . The Pseudo code for the program follows the guidelines given below
+1. Add individual functions for each arithmetic calculation.
+2. In case of Subtraction , a check is made to ensure that the result would be positive always
+3. In case of division, a check is made to ensure that the result is not less than 1
+4. Add a main function which would invoke the arithmetic functions after getting user inputs.
+Sketch the control flow graph and find the cyclomatic complexity of the entire program
+A. 5
+B. 6
+C. 7
+D. 8
+ANSWER: C
+ 
+"eLetter" is a web based application used to send the communication of wards internal marks to their respective parents. The software uses  SQL as backend . A database by name - "LetterDB" is created with tables to student details like Regno, Name, Parents Name , Parent Contact no, Email and another detail table which contains the internal assessment marks obtained by the students. The student master table  and assessment  detail table are linked using Regno. The "LetterDB" contains sql user defined functions, stored procedures, triggers to aid in calculating the total internal marks based on individual assessment marks. The Front end application generates the Letter to Parent report  and send that through parent email id. The Testing team is now assigned withteh job of doing White box testing, Identify on which of the following is covered under white box testing?
+A. Checks whether the letter to parent report is generated
+B. Checks and validates the database functions, triggers and procedures
+C. checks whether the student details are printed 
+D. checks the web application for behavioural or performance errors  
+ANSWER: B
+ 
+The employees of a software company are given access to their employee portal with a valid username and password field. The portal login accepts a minimum of 8 characters and maximum of 12 characters . Which of the following combination of test cases would be a valid as per the Boundary Value Analysis test case design methodology
+A. Test Cases : Password of length 7 characters, 8 characters,9-11 characters,12 characters and more than 12 characters
+B. Test Cases : Password of length 6 characters,7 characters,8-11 characters,12 characters and more than 12 characters
+C. Test Cases : Password of length 7 characters,8 characters,9 characters,11 characters and 12 characters
+D. Test Cases : Password of length 7 characters,8 characters,9 -12 and more than 12 characters
+ANSWER: A
+ 
+An simple online bulletin system  was developed to send out centralized communication to the students of computer science department. The application was estimated to have 20 function points  and 10 functional characteristics which are based on user importance,usage-intensity,complexity , uniformity and interfacing systems. The application has 8 dynamic quality characteristics and 4 static quality characteristics. The factors influencing the environment of a software application are test tools with rating - 4 , development tests(rating - 4)  and Testware determined by usable dataset (rating - 2). The factors influencing the productivity is based on skillset of human resources with a rating of 0.8 . The control factors which can be applied externally is about 10% of the primary test hours . With the help of the above data calculate the Total Test hours for  online Bulletin System
+A. 13400 hours
+B. 14784 hours
+C. 19958 hours
+D. 15584 hours
+ANSWER: B
+

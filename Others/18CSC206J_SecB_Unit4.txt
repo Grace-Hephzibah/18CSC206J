@@ -1,0 +1,105 @@
+Black box test case design also known as……….design technique.
+A. Structure based 
+B. Specification based
+C. Experience based
+D. System based
+ANSWER: B
+ 
+The main focus of boundary value analysis design methodology is to …….
+A. Explore the output errors
+B. Explore input errors
+C. Rectify  the errors
+D. Report the errors
+ANSWER: B
+ 
+Which metric is used to the number of defects confirmed in software/module during a specific period of operation or development against the size of the project counted in KLOC?
+A. Total Errors Count
+B. Status of Defect
+C. Count of path traversed
+D. Density of Defect
+ANSWER: D
+ 
+Analyze the following conversation in a toll booth 
+Toll officer: “What type of ticket do you require, single or return? ”IF the customer wants ‘return’
+Toll Officer: “return within 4 hrs or more ?”
+IF the customer replies ‘within 4 hrs’
+Toll officer: “Amount to be paid Rs 15”
+ELSE
+Toll Officer: “Amount to be paid Rs 20”
+ENDIF
+ELSE
+Toll Officer: “Amount to be paid Rs 10”
+ENDIF
+what would be the mimimum no of tests required to achieve 100% statement coverage?
+A. 1
+B. 2
+C. 3
+D. 4
+ANSWER: C
+ 
+What are testing methodologies that may be part of an organization’s testing strategies?
+A. Analysis, function based, contact based and non-reactive strategy 
+B. Analysis, non-functional based, control based and non- Regression strategy
+C. Analytical, Model based, Methodical and  Reactive strategy
+D. Characteristic, unsystematic, contract based and active strategy
+ANSWER: C
+ 
+A numeric field accepts age of a candidate registering for a Government job. The age for applying is greater than 22 and less than or equal to 28 only. Based on the above statement specify which of the following covers the MOST boundary values?
+A. 18,22,28,30
+B. 12,22,25,30
+C. 22,23,25,28
+D. 18,24,28,29
+ANSWER: D
+ 
+Certain People apply for personal load to a Privatized bank in order start up a new business. The criteria for approving loan are as follows
+a) Less than 20 – Refuse loan
+b) Age between 21 – 35 – Approve Personal loan with a limit of 2 lac
+c) Age older than 35 – 50 – Approve personal loan with limit of up to 5 lac
+Considering the above scenario,Which of the following sets of values lie in the equivalence classes?
+A. Valid Test Data - 20,36,51
+B. Valid Test Data - 19 ,30,43
+C. Valid Test Data - 21,35,44
+D. Valid Test Data – 20,35,50
+ANSWER: B
+ 
+Given below are some of the various testing activities performed by a software team 
+I. Person checks if the button shadow works properly in his system
+II.  Checks performed to test the feature in multiple browsers especially the browsers suggested by the client 
+III. Checks performed if the box-shadow works when integrated with the entire page or the site 
+IV. Checks performed to analyse and see whether the features suggested by the client is feasible
+Which of the above steps falls under verification testing?
+A. I & II 
+B. I & III
+C. II & IV
+D. II & III
+ANSWER: B
+ 
+The Testing team performs various testing and logs in  certain defects, which are fixed by the Development team on an incremental basis and builds are given for further testing. What kind of testing would be performed before delivering it to the testing team?
+A. System Testing
+B. Integration Testing
+C. Smoke Testing
+D. Functional Testing
+ANSWER: C
+ 
+The end users and stake holders are performing the testing to ensure which its working as per their requirements and needs, what type of testing strategy do they perform?
+A. Performance Testing
+B. Alpha Testing
+C. Beta Testing
+D. User Acceptance Testing
+ANSWER: D
+ 
+The QA testing team re-executes a small subset of tests that have already been conducted and ensure that the changes are not creating negative effects by using the following testing strategy
+A. Alpha Testing
+B. Beta Testing
+C. Regression Testing
+D. Smoke Testing
+ANSWER: C
+ 
+The QA team of a Library Management System project defines the list of tests to be performed, the level of tests to be covered and their relationship with the requirements. The team also frames the test implementation strategy; testing efforts to perform the test, test policy in align with the organization, their exceptions and impact. What is the name of the document framed by the testing team, which covers the above activities? 
+A. Master Test Plan
+B. Project Plan Document
+C. Test Plan Document
+D. Test Framework
+ANSWER: A
+ 
+

@@ -1,0 +1,132 @@
+Match the following:
+             List I                        List II
+(P) Alpha testing                    (i) Black-box testing
+(Q) Volume testing                   (ii) System testing
+(R) Equivalence class partitioning   (iii) White-box testing
+(S) Condition coverage               	(iv) Performance testing
+A. P-ii, Q- iii, R-i, S-iv
+B. P-ii, Q- iv, R-i, S- iii
+C. P-iii, Q- iv, R-ii, S-i
+D. P-iii, Q- i, R-ii, S-iv
+ANSWER: B
+
+Which best requirement can be tested correctly by the testers
+A. The system shall be user friendly
+B. Safety critical parts contain no faults 
+C. Response time shall be less than one second for the specified design load
+D. System shall be built to be portable
+ANSWER: C
+
+Testing begins at ______ level and works “outward” toward the integration of the entire computer based system
+A. Component
+B. Micro
+C. Unit
+D. System
+ANSWER: A
+
+When do we design our test cases for a application?
+A. Test Planning
+B. Test Configuration
+C. Test Setup
+D. Test Specification
+ANSWER: D
+
+Identify which of the statement is true ?
+A. Issues identified with design are difficult to fix
+B. Issues identified with the requirements are difficult to fix
+C. Issues identified with the Code  are difficult to fix
+D. Issues identified with the specifications  are difficult to fix
+ANSWER: B
+
+Which testing is focuses on the design and construction of the software architecture.
+A. Validation testing
+B. Unit testing
+C. System testing
+D. Integration testing
+ANSWER: D
+
+The designing of test cases were completed during
+A. Test recording
+B. Test configuration
+C. Test planning
+D. Test specification
+ANSWER: D
+
+____ is conducted at one or more end-user sites
+A. Alpha test
+B. Beta test
+C. Validation test
+D. Unit test
+ANSWER: B
+
+Executing a system in a manner that demands resources in abnormal quantity,  frequency or volume is 
+A. Security testing
+B. Stress testing
+C. Recovery testing
+D. Performance testing
+ANSWER: B
+
+Which of the following is not the attributes of a good test?
+A. High probability of finding an error
+B. Best of breed
+C. Redundant
+D. Neither too simple nor too complex
+ANSWER: C
+
+White box testing sometimes called as
+A. Basis path testing
+B. Flow graph testing
+C. Glass-box testing
+D. Behavioral resting
+ANSWER: C
+
+Which is a test case design technique that complements equivalence partitioning.
+A. Boundary value analysis
+B. Orthogonal array testing
+C. Graph based testing
+D. Model based testing
+ANSWER: A
+
+____ serves as a blue print to conduct software testing activities
+A. Test Scope
+B. Test Plan
+C. Test Strategy
+D. Test Estimation
+ANSWER: B
+
+Under what situation Error Guessing technique is mostly used
+A. First step to derive on test cases
+B. After most of the formal techniques are applied
+C. By inexperienced testers
+D. After live implementation
+ANSWER: B
+
+Cyclomatic Complexity cannot be applied in _______ 
+A. Re-engineering
+B. Risk Management
+C. Test Planning
+D. Reverse engineering
+ANSWER: D
+
+A bidirectional linkalso called
+A. Symmetric link
+B. Asymmetric link
+C. Parallel link
+D. Directed link
+ANSWER: A
+
+A particular text field accepts only alphanumeric characters. Which of the following is invalid equivalence partition?
+A. Testing
+B. Test2ing
+C. Test
+D. Test2#ing
+ANSWER: B
+
+Which is not a test case design techniques 
+A. Specification-Based techniques
+B. Structure-Based techniques
+C. Experience-Based techniques
+D. Module-Based techniques
+ANSWER: D
+
+

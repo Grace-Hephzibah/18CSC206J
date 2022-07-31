@@ -1,0 +1,127 @@
+﻿How many individuals are needed for code inspector team?
+A. 9 to 11
+B. 8 to 10
+C. 5 to 8
+D. 2 to 5
+ANSWER: D
+
+In Object Oriented Programming, polymorphism stands for?
+A. Allowing overriding of functions
+B. Hiding data
+C. Keeping things in different modules
+D. Wrapping things into a single unit
+ANSWER: A
+
+________ is the process by which objects of one class acquired the properties of objects of another classes?
+A. Hiding data
+B. Abstraction
+C. Inheritance
+D. Overriding
+ANSWER: C
+
+COTS component
+A. Independent and replaceable part of a system that fulfills a clear function 
+B. Commercial Off-The-Shelf states
+C. Commercial Off-The-System state
+D. Commercial Off-The-Servers
+ANSWER: A
+
+Which of the following is not an advantages of software reuse?
+A. high effectiveness 
+B. faster development process
+C. Low cost
+D. Lower risks
+ANSWER: A
+
+Pair programming has not been shown to have a helpful effect on:
+A. Peripheral awareness via overhearing
+B. Knowledge-sharing
+C. The amount of effort (man-hours) it takes to develop a feature
+D. The quality of delivered features
+ANSWER: C
+
+While the reliability of the software increases, failure intensity _____.
+A. Decreases 
+B. Increases
+C. No effect
+D. Stable
+ANSWER: A
+
+What programming based on stepwise refinement process is?
+A. Procedural
+B. C programming
+C. Structural
+D. Fine
+ANSWER: C
+
+What type of testing is beneficial to check whether coding standards are followed? 
+A. Computation Testing 
+B. Dynamic Testing
+C. Parameter Testing
+D. Static Testing                                             
+ANSWER: D
+
+______ leads a walkthrough? 
+A. Scribe
+B. Moderator
+C. Reviewer
+D. Author
+ANSWER: D
+
+Which of the following is not an important goal of a walkthrough? 
+A. Knowledge transfer
+B. Gather information
+C. Discuss alternatives
+D. Find defects
+ANSWER: D
+
+Which of the following are objectives for formal technical reviews?
+A. Allow senior staff members to correct errors
+B. Uncover errors in software work products
+C. Assess programmer productivity
+D. Determining who introduced an error into a program
+ANSWER: B
+
+Which of the following tasks is not part of Software Configuration Management?
+A. Change Control
+B. Reporting
+C. Statistical Quality Control
+D. Version Control
+ANSWER: C
+
+Which of the following is not considered as one of the four important elements that should exists when a configuration management system is developed?
+A. Component Elements
+B. Human Elements
+C. Process Elements
+D. Validation Elements
+ANSWER: D
+
+______ diagrams is used to describe the physical components , their distributions and associations
+A. Object Diagrams
+B. Component Diagrams 
+C. Instructional Diagram
+D. Deployment Diagrams
+ANSWER: D
+
+________  diagrams represents dynamic aspects related to a system
+A. Sequence Diagrams
+B. Deployment Diagrams
+C. Interaction Diagrams
+D. Use Case Diagrams
+ANSWER: C
+
+The element which is shown with the help of double line filled circle with pointing arrow is classified as_______________ in State chart diagrams.
+A. Final State 
+B. Two degree state
+C. Initial State 
+D. Zero degree State
+ANSWER: A
+
+To transform the design of the system into high-level language is
+A. Coding
+B. Design phase
+C. Unit testing
+D. Testing
+ANSWER: A
+
+

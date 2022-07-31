@@ -1,0 +1,88 @@
+In ------------------- partitioning, the decision makers should reside at the top of the architecture and the workers resides at the bottom of the architecture.
+A. Horizontal 
+B. Vertical
+C. Diagonal
+D. Rectangle
+ANSWER: B
+ 
+In which practice of designing and constructing buildings will be provides to reduce the chances of product defects, it is must have to reduce the amount of calls among Miscellaneous modules and classes?
+A. Software Architecture
+B. Architectural design
+C. Service-oriented architecture  
+D. Re-construction
+ANSWER: C
+ 
+Design standards for software design techniques and implemented on a project. Justify the following based on design standards. Which set of features is evaluated and split into smaller sets of features, which are expressed in different modules?
+A. Design Reuse
+B. Structural Models
+C. Object-oriented Design
+D. Systems Analysis
+ANSWER: B
+ 
+Which diagram in UML shows a complete or partial view of the structure of a modeled system at a specific time?
+A. Sequence Diagram
+B. Collaboration Diagram
+C. Class Diagram
+D. Object Diagram
+ANSWER: D
+ 
+Consider the below diagram illustrates Architectural context diagram for the Safe Home security function .To determine the architectural style or combination of styles that best fit the safe home system, requirement engineering is used to uncover.               
+A. Algorithmic complexity
+B. Characteristics and constrains
+C. Control and data
+D. Design pattern
+ANSWER: C
+ 
+Ought which of coming up next isn’t attributes to not be utilized to survey the nature of a web application?
+A. Aesthetics
+B. Reliability
+C. Maintainability
+D. Usability
+ANSWER: A
+ 
+In which methodology we center on separating the issue into littler parts.
+A. Bottom-up approach
+B. Top-down approach
+C. Coupling
+D. Cohesion
+ANSWER: B
+ 
+Which of the accompanying statement(s) is/are valid concerning programming design?
+S1 : Coupling is a proportion of how well the things assembled in a module have a place together coherently. 
+S2 : Cohesion is a proportion of the level of connection between programming  modules. 
+S3 : If coupling is low and attachment is high then it is simpler to transform one module without influencing others.
+A. Only S1 and S2
+B. Only S3
+C. All of S1, S2 and S3
+D. Only S1
+ANSWER: B
+ 
+The accompanying figure speaks to get to diagrams of two modules M1 and M2. The filled circles speak to strategies and the unfilled circles speak to characteristics. In the event that strategy m is moved to module M2 keeping the characteristics where they are, what would we be able to state about the normal union and coupling between modules in the arrangement of two modules?
+A. There is no change.
+B. Average cohesion goes up but coupling is reduced.
+C. Average cohesion goes down and coupling also reduces.
+D. Average cohesion and coupling increase.
+ANSWER: A
+ 
+Identify the correct order of process in the User Interface Design Evaluation Cycle. 
+A. Preliminary design, build  Prototype interface, Evaluate interface, Study by designer.
+B. Study by designer, build Prototype Interface, Preliminary design, Evaluate interface.
+C. Evaluate interface, Study by designer, Preliminary design, build Prototype Interface.
+D. Build prototype interface, Study by designer, build prototype interface, Evaluate interface.
+ANSWER: A
+ 
+In the design pyramid of WebE structure,  --------------------- is excluded?
+A. Business case design
+B. Content design
+C. Navigation design
+D. Architectural design
+ANSWER: A
+ 
+Which of the following is not a UI configuration process? 
+A. User, task, and environment analysis and modeling
+B. Interface design
+C. Knowledgeable, frequent users
+D. Interface validation
+ANSWER: C
+ 
+

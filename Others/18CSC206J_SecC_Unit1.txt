@@ -1,0 +1,44 @@
+﻿
+Suppose that a project was estimated to be 1500 KLOC. Calculate Effort, Staffing and Duration for each of project development in semidetached mode with values of a=3, b=1.12, c=2.5,d=0.35
+A. Effort - 10822.89, Duration – 64.55    Staffing – 167.64
+B. Effort - 10833.89, Duration – 64.55    Staffing – 169.64
+C. Effort - 10722.89, Duration – 64.55    Staffing – 147.64
+D. Effort - 9822.89, Duration – 63,    Staffing – 167.64
+ANSWER: A
+
+A project has User Input = 20 (High), User Output = 59 (Avg), Enquires = 12 (Low), Files = 6 (High), EI = 4 (Avg), Effort = 47.9 PM, Processing Complexity = 4,1,0,3,3,5,4,4,3,3,2,2,4,5. 
+A. PRODUCTIVITY = 10.82
+B. PRODUCTIVITY = 11
+C. PRODUCTIVITY = 12.11
+D. PRODUCTIVITY = 12.82
+ANSWER: D
+
+For the scenario given below which life cycle model would you choose? The software is to be developed for a chemical company with multiple departments. They have complex legacy system. Migrating the data from this legacy system it's not an easy task and takes a considerable time. The company very particular about process, acceptance criteria and legal contracts.
+A. Spiral Model
+B. Waterfall Model
+C. RAD Model
+D. Iterative Model
+ANSWER: A
+
+Suppose that a project was estimated to be 600 KLOC. Calculate effort and time for each of project development based on the requested mode.Evaluate  the duration of the project in all three mode (Organic, Semi-detached, Embedded) 
+A. organic – 43.761 months, semi-detached – 44.078 months, embedded – 42.930 months
+B. organic – 44.761 months, semi-detached – 45.078 months, embedded – 43.930 months
+C. organic – 45.761 months, semi-detached – 46.078 months, embedded – 44.930 months
+D. organic – 43 months, semi-detached – 44 months, embedded – 42 months
+ANSWER: B
+
+Evaluate the Effort of a project intermediate COCOMO Model. The requirements calling for 3 major modules with following size: Screen Drawing – 2 KLOC, Object Base Management  - 3.5 KLOC and Algebra / Numerical Methods – 1.75 KLOC. Also the Effort Estimated Factors are 1.08,  1.30, 1.21, 1.11, 0.70,  1.14. Also the company is new with inexperienced staff the system is an ORGANIC system with values of  a=3.2   b = 1.05
+A. EFFORT = 38.22 person months
+B. EFFORT = 34.54 person months
+C. EFFORT = 38.54 person months
+D. EFFORT = 36.54 person months
+ANSWER: C
+ 
+A project has user inputs = 35 (Avg), user outputs = 40 (low), Inquiries = 12  (High), Internal files = 6 (High), External interfaces = 4  (Avg). The general system characteristics involved and their various processing complexity factors are: 4,1,0,3,3,5,4,4,3,3,2,2,4,5. Evaluate the Function Point
+A. 500
+B. 528
+C. 551.3
+D. 529.2
+ANSWER: D
+ 
+

@@ -1,0 +1,135 @@
+﻿For a good software design, which one is not a feature from the given list?
+A. Correctness
+B. Complex Design
+C. Understandability
+D. Efficiency
+ANSWER: B
+
+The software architects can make any changes or modifications freely in ------------------------------ phase
+A.  Preliminary design 
+B. Detailed design
+C. Top down 
+D. Bottom up
+ANSWER: A
+
+In the design phase of the software, which of the following item in not designed?
+A. Interface between different modules
+B. Different modules of the software
+C. Data flow and control flow
+D. Navigation flow
+ANSWER: D
+
+What objectives are not the one that the software designing phase claim to offer?                                           (i). Identify software design activities
+(ii). Identify important items developed during the software design phase
+ (iii). To improve the designing skills of the developers
+A. All i, ii and iii are correct
+B. Only i and ii are correct
+C. Only i and iii are correct
+D. None of the given options is correct
+ANSWER: B
+
+ ----------- is a type of coupling in which the full data arrangement is shared between modules. 
+A. Data coupling
+B. Common coupling
+C. Control coupling
+D. Stamp coupling
+ANSWER: D
+
+Which is not the predominant cover of the software Design phase?
+A. Module and Interface
+B. Basic Structure and Hierarchy
+C. Data 
+D. Coding Language
+ANSWER: D
+
+The system designed according to the tasks it offers is  known as ------------- oriented design.
+A.  Function
+B.  Class
+C. Structure
+D. Object
+ANSWER: D
+
+Interface analysis means understanding                           i). the end-users
+ii). the tasks 
+iii). the content
+iv). the environment
+A.  I , II and III
+B.  II, III and IV 
+C.  III, I  and IV
+D.  I, II, III and IV
+ANSWER: D
+
+    ---------------- is not a type of Architectural Model?
+A. Dynamic process model
+B. Distribution model
+C. Static structural model
+D. Non-distribution model
+ANSWER: D
+
+_______________ is a proportion of the level of relationship between the modules.
+A. Coupling
+B. Cohesion
+C. Independency
+D. Portability
+ANSWER: A
+
+In Architectural style, each style describes a system category that encompasses ----------                             i). a set of connectors
+ii). a set of components
+iii). Constraints
+iv). Semantic models
+A. I and II
+B. I, II and III
+C. II, IV
+D. I, II, III and IV
+ANSWER: D
+
+The architecture in which the data live in the focal point of the structure  and  is accessed repeatedly by the other segments is known as ---------------------   architecture.
+A. Data-centered
+B.  Data flow
+C.  Layered
+D. Call and return
+ANSWER: A
+
+ In Object-Oriented software engineering an element ----------------
+A. Attributes and operations
+B. Instances of each class
+C. Set of collaborating classes
+D. Roles for each actor 
+ANSWER: C
+
+A pattern language  
+A. Encompasses a collection of Patterns
+B. Is implemented using hypertext
+C. Resembles the structure of natural language
+D. Is implemented using plain text 
+ANSWER: A
+
+To  evaluate the WebApp quality, which characteristics is excluded?
+A. Aesthetics
+B. Reliability
+C. Maintainability
+D. Usability
+ANSWER: A
+
+ To represent the user’s view model of information, ----------- design elements are used.
+A.  Architectural 
+B.  Data 
+C.  Interface 
+D. Component-level 
+ANSWER: B
+
+Most user interface design patterns fall within one of  ---------- categories of Pattern
+A. 100
+B. 25
+C. 5
+D. 10
+ANSWER: D
+
+Identify the design feature not part of WebE design pyramid
+A. Content design
+B. Architectural design
+C. Business case design
+D. Navigation design
+ANSWER: C
+
+

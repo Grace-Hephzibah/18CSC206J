@@ -1,0 +1,43 @@
+﻿Even after thorough reviews and testing, the software product contains many defects when it goes into production. The software vendor instructs his maintenance team to create a patch to rectify them. A patch can be created to rectify those defects. Analyze the case and provide the type of maintenance needed.
+A. Corrective Maintenance 
+B. Adaptive Maintenance
+C. Perfective Maintenance
+D. Preventive Maintenance
+ANSWER: A
+ 
+Generally after a lapse of time, there are likely changes in business or operative environment, or there may be changes in hardware/software environment. Many of these changes can be perceived in advance and can be adopted. Which maintenance types is suitable for this case?
+A. Corrective Maintenance 
+B. Adaptive Maintenance
+C. Perfective Maintenance
+D. Preventive Maintenance
+ANSWER: D
+ 
+The operating environment in which a software product runs in operation includes the hardware and software platform as well as the interfaces for human and other machine interactions. If any of these change over time, then which of the following type can be preferred to make the product to be a consistent one?
+A. Corrective Maintenance 
+B. Adaptive Maintenance
+C. Perfective Maintenance
+D. Preventive Maintenance
+ANSWER: B
+ 
+A business workflow may have changed, a business transaction may have changed, or an altogether new business transaction was represented in the software product. For all these kinds of requirements, Identify the type of maintenance needed?
+A. Corrective Maintenance 
+B. Adaptive Maintenance
+C. Perfective Maintenance
+D. Preventive Maintenance
+ANSWER: C
+ 
+You are the software project manager. Software maintenance activities reduce ROI currently. This in turn has impact in the overall project. At this situation, what maintenance model will you use? 
+A. Quick fix model
+B. Boehm’s model
+C. Osborne’s model
+D. Iterative enhancement model 
+ANSWER: B
+ 
+An organization has purchased ERP from its vendor. During the course of usage, some of the defects were identified like, not able to generate monthly reports, some quality attributes missing, some security issues, etc., Which maintenance model will you suggest for this case by analyzing the given scenario?
+A. Quick fix model
+B. Boehm’s model
+C. Osborne’s model
+D. Iterative enhancement model 
+ANSWER: A
+ 
+

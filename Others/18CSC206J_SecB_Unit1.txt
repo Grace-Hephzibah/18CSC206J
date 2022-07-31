@@ -1,0 +1,85 @@
+The SCM provides mechanisms and data structures to accomodate change management effectively.  The …………collection of procedures and tasks that define an effective approach to change management for all constituencies involved in the management, engineering and use of computer software.
+A. Component elements
+B. Process elements
+C. Human elements
+D. Construction elements
+ANSWER: B
+ 
+A new project with estimated 2000 kloc embedded system has to be developed. Project manager has a choice of hiring from two pools of developers : with very high application experience (0.82) and very little experience in programming language (1.14) being used or developer of very low application experience (1.29) but a lot of experience (0.95) with the programming language. What is the impact of hiring all developers from one or the other pool. Also calculate the no of staffs needed for both pools and justify accordingly. Based on the above 2 cases of which pool of programmers will the Project manager has a choice of hiring after calculation EAF, Effort and Duration
+A. Case 1
+B. Case 2
+C. None of the pools
+D. Mix of both the pools
+ANSWER: A
+ 
+A repository is created for a management subsystem which consists of the following elements .The information structure that has been established to store all content objects is ……… 
+A. Configuration management
+B. Database capabilities
+C. Content database
+D. Requirements Management
+ANSWER: C
+ 
+A repository is created for a management subsystem which consists of the following elements . The functional elements and associated workflow that support content object identification, version control, change management, change auditing, and reporting
+A. Database capabilities
+B. Requirements Management
+C. Content database
+D. Configuration management
+ANSWER: D
+ 
+Evolutionary Process Model produce an increasingly more complete version of the software with each iteration. Identify the model which is not part of evolutionary
+A. RAD
+B. Spiral
+C. Prototype
+D. Concurrent Development
+ANSWER: A
+ 
+A new project with estimated 1500 kloc embedded system has to be developed. Project manager has a choice of hiring from two pools of developers : with very high application experience (0.82) and very little experience in programming language (1.14) being used or developer of very low application experience (1.29) but a lot of experience (0.95) with the programming language. Identify the formula used to calculate the effort for the above problem…..
+A. Effort = E = ci (KLOC)di* EAF
+B. Effort = E = ai (KLOC)ci* EAF
+C. Effort = E = ai (KLOC)bi* EAF
+D. Effort = E = ai (KLOC)bi
+ANSWER: C
+ 
+Extrem programming is a widley used approach in which XP Design follows the …….. of “Nothing More Nothing Less” than the story. 
+A. Keep it Clear (KIC)
+B. Keep it Detailed (KID)
+C. Keep it Easy (KIE)
+D. Keep it Simple (KIS)
+ANSWER: D
+ 
+A new project with estimated 1500 kloc embedded system has to be developed. Project manager has a choice of hiring from two pools of developers : with very high application experience (0.82) and very little experience in programming language (1.14) being used or developer of very low application experience (1.29) but a lot of experience (0.95) with the programming language. What is the impact of hiring all developers from one or the other pool. Also calculate the no of staffs needed for both pools and justify accordingly. what is the EAF value when developers has high application experience and very little experience in programming language
+A. EAF - Effort Adjustment Factors = 1.22
+B. EAF - Effort Adjustment Factors = 0.9348
+C. EAF - Effort Adjustment Factors =1.23
+D. EAF - Effort Adjustment Factors =0.8348
+ANSWER: B
+ 
+Risk Identification identifies the specific threats to a project in a systematic way. …….. Is a type of risk which is identified based on clear understanding of a technology, people and environment is …….
+A. Generic Risk
+B. Technology Risk
+C. Project Risk
+D. Product Risk
+ANSWER: D
+ 
+A process is a collection of activities, actions and tasks that are performed when some work product to be created. Process models are not perfect but provides a ……………for software engineering work.
+A. Framework
+B. Umbrella
+C. Roadmap
+D. Lifecycle
+ANSWER: C
+ 
+The best method of compunicating information to and within a development team is ……………conversation in agile development
+A. Online Potal
+B. Face to Face 
+C. E-mail
+D. Project Software
+ANSWER: B
+ 
+Extreme Programming is a widely used agile process that uses an object oriented approach. The first step begins with listening, leads to creation of “User Stories” that describes required output, features and functionality. Identify the first step 
+A. XP Planning
+B. XP Requirements
+C. XP Data Gathering
+D. XP User stories
+ANSWER: A
+ 
+

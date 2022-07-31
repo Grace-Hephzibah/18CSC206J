@@ -1,0 +1,85 @@
+Which of these are incorrect for the product plan?
+A. No need to revise product plan frequently
+B. Product plan guides the launch of various product development activities
+C. Product plan can be revised for every sprint
+D. Product plan can be revised based in team suggestion
+ANSWER: A
+ 
+A program that is used in a real-world environment necessarily must change or become progressively less useful in that environment. State the law
+A. Law of increasing complexity
+B. Law of conservation of familiarity
+C. Law of continuing change 
+D. Law of conservation of  organizational stability
+ANSWER: C
+ 
+The aspects of a maintenance team that lead to high maintenance costs are ………… & ………
+A. Quality, Staff turnover
+B. Staff turnover, Software Quality
+C. Domain expertise, Team
+D. Staff turnover, Domain expertise
+ANSWER: D
+ 
+……………method adapts by means of verifying that maintenance goals have been met; performance review to provide feedback to managers.
+A. Reuse
+B. Boehm’s Model
+C. Osborne
+D. Iterative
+ANSWER: C
+ 
+Analyze and find out from these loss which is not the financial reason for software maintenance.
+A. Revenue Loss
+B. Software Loss
+C. Opportunity Loss
+D. Productivity Loss
+ANSWER: B
+ 
+……………..prepared by your team is up to date and in synch with the version of your software product, which you will implement at the customer site.
+A. Product Manual
+B. Project Manual
+C. Hardware and Software Manual
+D. User Manual
+ANSWER: D
+ 
+Judge which characteristic Results due to combination of other system factors, such as complexity, poor documentation and lack of inexperienced personnel symbolize? 
+A. Complex software 
+B. High maintenance cost 
+C. Obsolete hardware
+D. Poorly documented 
+ANSWER: B
+ 
+Identify among these which session is a descendent of the product roadmap.
+A. Release Maintenance
+B. Phased communication
+C. Release Planning
+D. Forward adjustment
+ANSWER: C
+ 
+Identify the key Components of Software Maintenance Framework.
+A. User requirements
+B. Opportunity
+C. Productivity
+D. Revenue
+ANSWER: A
+ 
+Identify the key Factor that does not affect Software Maintenance.
+A. Relationship of Software product and Environment
+B. Relationship of Software product and User
+C. Relationship of Software product and Software Maintenance team
+D. Relationship of Software product and product implementation
+ANSWER: D
+ 
+The operating environment in which a software product runs in operation includes the hardware and software platform as well as the interfaces for human and other machine interactions. If any of these change over time, it becomes difficult to run the software product. In such cases, what type of Maintenance would you suggest?
+A. Corrective Maintenance
+B. Adaptive Maintenance
+C. Preventive Maintenance
+D. Perfective maintenance
+ANSWER: B
+ 
+If the entire team of the project management has agreed on all the functionalities being implemented in the product as well as the required quality, which of the following phase will be preferred by team.
+A. Decision of alpha, beta version
+B. Regular release
+C. Training to support staff
+D. Customer support strategy
+ANSWER: B
+ 
+

@@ -1,0 +1,42 @@
+﻿A person might want to access his or her bank account via an Internet connection to the bank's online website. This scenario involves several elements which are involved in the entire chain of artifacts and events. May design technique should tackle user activities, what objects on the Website function on user activities, how these objects communicate with the bank's underlying software framework, All these things will be analyzed by which design technique?
+A. ER Model
+B. System analysis
+C. Prototyping
+D. Design reuse
+ANSWER: B
+
+Consider the below example for CRC model index card for the floor plan.Which is used to manage a unit of work from starting to finishing of the application  
+A. Controller classes
+B. Boundary classes
+C.  Entity classes
+D. Attribute classes
+ANSWER: A
+
+Architectural Design is the overall structure of the software and the ways in which that structure provides conceptual integrity for a system. In addition, Genre implies a specific category within the overall software domain. Within each category, there are a number of subcategories. For example, within the genre of buildings, there are following general styles: houses, condos, apartment buildings, office buildings, industrial building, warehouses, and so on. Within each general style, more specific styles might apply. Each style would have a structure that can be described using a set of predictable patterns. In regards to this architectural styles, answer the following question- Which architecture allows the data store accessed frequently by other components like clients software
+A. Data flow architecture
+B. Data center architecture
+C. Call and return architecture
+D. Object oriented architecture
+ANSWER: B
+
+User interface design creates an effective communication medium between a human and a computer. In regards to below user interface design process, answer the following questions.Which phase of User interface design process creates the prototypes that evaluates the usage scenario to meet the system goal?
+A. Interface validation
+B. Interface construction
+C. Interface analysis and modelling
+D. Interface design
+ANSWER: B
+
+Module coupling provides an indication of the connectedness of a module to other modules.Which of these is correct with context to coupling?
+A. Failure to hide information leads to loose coupling and cannot be avoided
+B. Modules that communicate using special data types and structures are less tightly coupled than modules with simple values
+C. When modules communicate only through public module interface, their coupling strength is proportional to the number of messages and number of data passed in between
+D. Cohesion is bad for software while coupling is good for the software
+ANSWER: C
+
+Refactoring is a reorganization technique that simplifies the design without changing its function. Justify the following based on refactoring:Why do some feel that refactoring doesn't often result in increased performance?
+A. Refactoring is somewhat of an outdated process
+B. Refactoring changes are often small enough that they may not make a noticeable difference 
+C. Because it is too simple a process to be considered effective
+D. Because test driven development is a more popular technique
+ANSWER: B
+

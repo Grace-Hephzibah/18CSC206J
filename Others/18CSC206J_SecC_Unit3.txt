@@ -1,0 +1,42 @@
+﻿An application system for dentists is designed to handle appointments, dental records, patient recall, etc. It is configured as a generic application system to support the particular business type, activity or enterprise. Identify the major LIMITATION of COTS solution arising from the designed system.
+A. It is based on assumptions that are practically possible to identify the functionalities. 
+B. The platform for operating systems are subjected to change by the COTS product vendor
+C. COTS product vendor can only modify the system support and its upgrading versions
+D. The evolved technologies are subjected to change by the COTS product vendor
+ANSWER: C
+ 
+An application system for dentists is designed to handle appointments, dental records, patient recall, etc. It is configured as a generic application system to support the particular business type, activity or enterprise. Identify the major LIMITATION of COTS solution arising from the designed system. For this scenario mention the selection of best COTS solution
+A. Configurable application systems 
+B. Application components integration
+C. Non-Configurable application systems 
+D. One time configurable application systems
+ANSWER: A
+ 
+For any application development, which of the following frameworks are NOT feasible
+A. System infrastructure frameworks
+B. Middleware integration frameworks
+C. Enterprise application frameworks
+D. Storage frameworks
+ANSWER: D
+ 
+The gaming application “Ludo” is one of the most sorted online games by a number of users. The developers are now in the plan to enhance the number of players to 6 from 4 as they did from 2 players to 4 initially based on its popularity. Which of the following CANNOT be suggested to reuse for enhancing the application.
+A. System reuse
+B. Application reuse
+C. Component reuse
+D. Platform reuse
+ANSWER: D
+ 
+The gaming application “Ludo” is one of the most sorted online games by a number of users. The developers are now in the plan to enhance the number of players to 6 from 4 as they did from 2 players to 4 initially based on its popularity. Which of the following CANNOT be suggested to reuse for enhancing the application.For the given  gaming application, identify the design choices that CANNOT be made?
+A. Appropriate Functionalities of the individual application systems
+B. Method of data exchange
+C. Product features
+D. Vendor specifications
+ANSWER: D
+ 
+Suggest the rules that should be applied for the given ERP architecture to integrate the system database with the involved processes
+A. System rules
+B. Business rules
+C. Process rules
+D. Vendor specification rules
+ANSWER: B
+
